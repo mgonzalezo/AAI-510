@@ -166,7 +166,8 @@ cython_debug/
 *.zip
 *.csv
 
-# Generated output files (keep PDFs)
+# Generated output files
+*.pdf
 *.docx
 
 # Dataset directories (JSON corpora)
