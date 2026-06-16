@@ -158,3 +158,17 @@ cython_debug/
 # Cursor
 .cursorignore
 .cursorindexingignore
+
+# Claude Code
+.claude/
+
+# Large data files - datasets, archives
+*.zip
+*.csv
+
+# Generated output files
+*.pdf
+*.docx
+
+# Dataset directories (Module-5 biorxiv JSON corpus)
+biorxiv_medrxiv/
